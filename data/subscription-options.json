@@ -1,0 +1,29 @@
+{
+  "subscriptionOptionCases": [
+    {
+      "name": "organizationsOption",
+      "url": "https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly",
+      "subOption": "yearlyBilling"
+    },
+    {
+      "name": "organizationsOption",
+      "url": "https://www.jetbrains.com/idea/buy/?section=commercial&billing=monthly",
+      "subOption": "monthlyBilling"
+    },
+    {
+      "name": "individualOption",
+      "url": "https://www.jetbrains.com/idea/buy/?section=personal&billing=yearly",
+      "subOption": "yearlyBilling"
+    },
+    {
+      "name": "individualOption",
+      "url": "https://www.jetbrains.com/idea/buy/?section=personal&billing=monthly",
+      "subOption": "monthlyBilling"
+    },
+    {
+      "name": "specialCategories",
+      "url": "https://www.jetbrains.com/idea/buy/?section=discounts&billing=yearly",
+      "subOption": "none"
+    }
+  ]
+}
