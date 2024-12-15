@@ -1,0 +1,36 @@
+# Custom attributes
+.DS_Store
+
+# Dependency directories
+node_modules/
+.yarn
+/playwright/.cache/
+
+# IDE related data
+.vscode/
+.idea/
+.project
+
+# Reports
+/test-results/
+/playwright-report/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Logs
+logs
+*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+node_modules

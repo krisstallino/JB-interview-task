@@ -1,0 +1,16 @@
+{
+  "name": "jb-interview-task",
+  "version": "1.0.0",
+  "description": "case study for JetBrains made by Kristina Labakhua",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --project=chromium"
+  },
+  "keywords": [],
+  "author": "Kristina Labakhua",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
